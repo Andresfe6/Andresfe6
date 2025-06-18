@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there! I'm Andrés 👋
 
-<!--
-**Andresfe6/Andresfe6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Scientist, Data Analyst with a focus on Machine Learning and NLP 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+- **Languages & Tools**: Python, SQL, Jupyter Notebook, Git, GitHub  
+- **Libraries & Frameworks**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, LightGBM, CatBoost, XGBoost, BERT  
+- **Techniques**: Data Analysis, Machine Learning, NLP, Deep Learning, Regression, Classification, Clustering  
+- **Other**: Power BI, Tableau, Agile Methodologies
+
+## 🚀 Projects
+Check out my repositories to explore projects on:
+- Customer churn prediction 📉  
+- Market value estimation of vehicles 🚗  
+- Taxi demand forecasting 🚕  
+- Sentiment analysis with BERT 🤖  
+- Product sales analysis and segmentation 📊  
+- Business decision optimization using machine learning 💼
+
+## 📫 Let's connect
+- [LinkedIn](https://www.linkedin.com/in/andresfelipe-
+gutierrez6/)
+- Email: agutierr5025@gmail.com
+
+![Banner](https://link-to-your-banner-image.jpg)
