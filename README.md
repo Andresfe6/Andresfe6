@@ -1,22 +1,19 @@
-# Hi there! I'm Andrés 👋
+# 👋 Hi, I'm Andres Gutierrez!
 
-🎓 Data Scientist, Data Analyst with a focus on Machine Learning and NLP 
+I'm a **Data Analyst / Data Scientist** with a business background and a passion for solving real-world problems using data.
+
+🔍 I enjoy turning messy datasets into clear insights.  
+🧠 I work with machine learning, NLP, and time series models.  
+📊 My stack: Python, Pandas, Scikit-learn, SQL, Jupyter.
+
+## 💼 My Portfolio
+Here are some of the projects I’ve worked on:
+- 📈 [Taxi Demand Prediction](https://github.com/your-user/sweet-lift-taxi-demand-prediction)
+- 🎮 [Video Game Sales Analysis](https://github.com/your-user/ice-video-games-project)
+- 🏦 [Bank Churn Prediction](https://github.com/your-user/beta-bank-customer-churn)
+- 🛡️ [Insurance Customer Segmentation](https://github.com/your-user/sure-tomorrow-customer-segmentation)
 
 
-## 🧠 Skills
-- **Languages & Tools**: Python, SQL, Jupyter Notebook, Git, GitHub  
-- **Libraries & Frameworks**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, LightGBM, CatBoost, XGBoost, BERT  
-- **Techniques**: Data Analysis, Machine Learning, NLP, Deep Learning, Regression, Classification, Clustering  
-- **Other**: Power BI, Tableau, Agile Methodologies
-
-## 🚀 Projects
-Check out my repositories to explore projects on:
-- Customer churn prediction 📉  
-- Market value estimation of vehicles 🚗  
-- Taxi demand forecasting 🚕  
-- Sentiment analysis with BERT 🤖  
-- Product sales analysis and segmentation 📊  
-- Business decision optimization using machine learning 💼
 
 ## 📫 Let's connect
 - [LinkedIn](https://www.linkedin.com/in/andresfelipe-
