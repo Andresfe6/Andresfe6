@@ -20,4 +20,6 @@ Here are some of the projects I’ve worked on:
 gutierrez6/)
 - Email: agutierr5025@gmail.com
 
+> *"Data is the new oil — but insight is the fuel."*
+
 ![Banner](https://link-to-your-banner-image.jpg)
