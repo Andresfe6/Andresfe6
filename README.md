@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="GitHub banner" width="100%" />
+</p>
+
 # 👋 Hi, I'm Andres Gutierrez!
 
 I'm a **Data Analyst / Data Scientist** with a business background and a passion for solving real-world problems using data.
@@ -30,4 +34,4 @@ gutierrez6/)
 
 > *"Data is the new oil — but insight is the fuel."*
 
-![Banner](https://link-to-your-banner-image.jpg)
+
