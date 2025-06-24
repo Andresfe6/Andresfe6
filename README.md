@@ -2,9 +2,17 @@
 
 I'm a **Data Analyst / Data Scientist** with a business background and a passion for solving real-world problems using data.
 
-🔍 I enjoy turning messy datasets into clear insights.  
-🧠 I work with machine learning, NLP, and time series models.  
-📊 My stack: Python, Pandas, Scikit-learn, SQL, Jupyter.
+## 🧠 What I do
+- Translate business questions into data-driven answers
+- Build machine learning models to predict customer behavior and optimize operations
+- Analyze large datasets to uncover actionable insights
+- Communicate findings through clear visualizations and dashboards
+
+## 🛠️ Tech Stack
+- **Languages**: Python, SQL
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, LightGBM, XGBoost
+- **Specialties**: Machine Learning, NLP, Data Visualization, Regression, Classification, Clustering
+- **Tools**: Jupyter Notebook, Google Colab, Git, GitHub.
 
 ## 💼 My Portfolio
 Here are some of the projects I’ve worked on:
