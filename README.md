@@ -8,7 +8,7 @@ I'm a **Data Analyst / Data Scientist** with a business background and a passion
 
 ## 💼 My Portfolio
 Here are some of the projects I’ve worked on:
-- 🚖 [Taxi Demand Prediction](https://github.com/Andresfe6/sweet-lift-taxi-demand-predictionn)
+- 🚖 [Taxi Demand Prediction](https://github.com/Andresfe6/sweet-lift-taxi-demand-prediction)
 - 🎬 [Sentiment Analysis with NLP](https://github.com/Andresfe6/film-junky-sentiment-analysis)
 - 🚗 [Car Price Prediction](https://github.com/Andresfe6/used-cars-price-prediction)
 - 🛡️ [Insurance Customer Segmentation](https://github.com/Andresfe6/insurance-client-clustering)
