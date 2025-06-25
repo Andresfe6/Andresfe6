@@ -28,8 +28,7 @@ Here are some of the projects I’ve worked on:
 
 
 ## 📫 Let's connect
-- [LinkedIn](https://www.linkedin.com/in/andresfelipe-
-gutierrez6/)
+- [LinkedIn](www.linkedin.com/in/andres-felipe-gutierrez6)
 - Email: agutierr5025@gmail.com
 
 > *"Data is the new oil — but insight is the fuel."*
